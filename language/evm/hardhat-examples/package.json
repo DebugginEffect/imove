@@ -21,7 +21,7 @@
     "hardhat": "^2.9.3",
     "hardhat-gas-reporter": "^1.0.8",
     "hardhat-move": "file:../hardhat-move",
-    "web3": "^1.7.1"
+    "web3": "^1.10.3"
   },
   "dependencies": {
     "@openzeppelin/contracts": "^4.5.0"
